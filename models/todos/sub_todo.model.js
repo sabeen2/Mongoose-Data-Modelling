@@ -11,7 +11,7 @@ const subTodoSchema = new momgoose.Schema(
       default: false,
     },
     createdBy: {
-      type: mongoose.Schema.ObjectId,
+      type: mongoose.Schema.Types.ObjectId,
       ref: 'User', 
     },
   },
