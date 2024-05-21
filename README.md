@@ -1,1 +1,1 @@
-### Stackblitz Practice project of data modelling 
+### Stackblitz Practice project of mongoose data modelling 
